@@ -1,0 +1,6 @@
+{
+  "name": "Vruddhi Properties",
+  "description": "A privacy-first real estate marketplace for Indian properties where exact details are revealed only after inquiry approval.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
